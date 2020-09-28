@@ -1,2 +1,2 @@
-# https://github.com/AlinaAprel/10sprint.git
+# https://alinaaprel.github.io/10sprint/
 # v0.0.1
